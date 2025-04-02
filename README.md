@@ -23,5 +23,5 @@ Here are a few projects I've worked on. Feel free to check them out!
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]() - Let's connect and network!
-- [Portfolio]() - My personal website
+- [LinkedIn]() - Let's connect!
+- [Portfolio]() - My personal website!
