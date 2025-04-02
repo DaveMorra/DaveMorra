@@ -23,6 +23,5 @@ Here are a few projects I've worked on. Feel free to check them out!
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](add here) - Let's connect and network!
-- [Twitter](add here ) - Follow me for tech updates, projects, and random thoughts.
-- [Portfolio](add here) - My personal website/portfolio showcasing my work.
+- [LinkedIn]() - Let's connect and network!
+- [Portfolio]() - My personal website
