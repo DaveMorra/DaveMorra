@@ -10,10 +10,6 @@ Here are some of the technologies and tools I'm currently working with:
 - **Frameworks/Libraries**: Angular, Bootstrap, Unity
 - **Other**: GitHub, Unix, Bash, Docker, SQL
 
-## 📈 GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmorra&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 📚 My Projects
 
 Here are a few projects I've worked on. Feel free to check them out!
