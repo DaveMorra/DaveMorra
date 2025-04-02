@@ -1,6 +1,6 @@
 # Hi there! I'm David Morra 👋
 
-Welcome to my GitHub profile! I'm a passionate coder and a student at **Western University**, currently learning and exploring new technologies to enhance my programming skills. This is where I share my personal projects, coding experiments, and anything related to the world of development.
+Welcome to my GitHub profile! I'm a passionate coder and a student at **Western University**, currently learning and exploring new technologies to enhance my programming skills. This is where I share my academic and personal projects. Feel free to look around!
 
 ## 🛠️ Technologies & Tools
 
