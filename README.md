@@ -16,12 +16,3 @@ Here are a few projects I've worked on. Feel free to check them out!
 
 - [Film Finder](https://github.com/davidmorra/project1) - TODO
 - [Virtual Tamagotchi Game](https://github.com/davidmorra/project2) - TODO
-
-## 🎓 Education
-
-- **Western University**, Bachelor of Science in Computer Science (Expected graduation: 2026)
-
-## 🔗 Connect with Me
-
-- [LinkedIn]() - Let's connect!
-- [Portfolio]() - My personal website!
