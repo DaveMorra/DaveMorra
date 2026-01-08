@@ -14,7 +14,7 @@ Here are some of the technologies and tools I'm currently working with:
 
 Not all my projects make it to my Github page. Below I have showcased a few extra projects. Feel free to check them out!
 
-- [Smart Scheduler](https://github.com/DaveMorra) **Java | Springboot | TypeScript | Angular | HTML | CSS | Bootstrap**  
+- [Smart Scheduler](https://github.com/DaveMorra) **Java | Springboot | TypeScript | Angular | Bootstrap**  
   Work In Progress...
 
 - [Inventory Management Website](https://github.com/DaveMorra) **SQL | Javascript | HTML | CSS**  
