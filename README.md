@@ -8,7 +8,7 @@ Here are some of the technologies and tools I'm currently working with:
 
 - **Languages**: Java, C, C++, Python, HTML, CSS, R, TypeScript, Javascript
 - **Frameworks/Libraries**: Angular, Bootstrap, Unity
-- **Other**: GitHub, Unix, Bash, SQL, Docker
+- **Other**: GitHub, Unix, Bash, SQL, Docker, JUNIT, Swing
 
 ## 📚 My Other Projects
 
