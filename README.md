@@ -10,9 +10,9 @@ Here are some of the technologies and tools I'm currently working with:
 - **Frameworks/Libraries**: Angular, Bootstrap, Unity
 - **Other**: GitHub, Unix, Bash, SQL, Docker
 
-## 📚 My Projects
+## 📚 My Other Projects
 
-Here are a few projects I've worked on. Feel free to check them out!
+Not All My Projects Make It To My Github Page. Below I Have Showcased A Few Extra Projects. Feel free to check them out!
 
-- [Film Finder](https://github.com/davidmorra/project1) - TODO
-- [Virtual Tamagotchi Game](https://github.com/davidmorra/project2) - TODO
+- [Smart Scheduler]() - TODO
+- [Unity Marble Game](https://www.youtube.com/watch?v=tYbfSUVoG9Q) - TODO
