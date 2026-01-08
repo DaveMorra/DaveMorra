@@ -16,12 +16,9 @@ Not all my projects make it to my Github page. Below I have showcased a few extr
 
 - [Smart Scheduler](https://github.com/DaveMorra) **Java | Springboot | TypeScript | Angular | Bootstrap**  
   Work In Progress...
-
 - [Inventory Management Website](https://github.com/DaveMorra) **SQL | Javascript | HTML | CSS**  
   Work In Progress...
-  
 - [48 Hour Hackathon Game](https://www.youtube.com/watch?v=wS3McmV5Hco) **Unity | Blender**  
-  During my senior year of high school. I created an adventure game alongside two other developers.
-
+  During my senior year of high school. I created an adventure game alongside two other developers
 - [Unity Marble Game](https://www.youtube.com/watch?v=tYbfSUVoG9Q) **Unity**  
   Fast-paced game that pushes users to quickly traverse a series of obstacle courses. Developed an interactive world using C# in the Unity game engine.
