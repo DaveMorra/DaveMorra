@@ -19,4 +19,4 @@ Not all my projects make it to my Github page. Below I have showcased a few extr
 - [Inventory Management Website](https://davemorra.ca/projects.html) **SQL | Javascript | HTML | CSS**  
   Full-stack web application backed with a SQL database, designed to help businesses efficiently manage their inventory, customers, and agents. It provides features for inventory tracking, purchase management, and sales reporting, all integrated to support business organization and decision making.
 - [Unity Marble Game](https://www.youtube.com/watch?v=tYbfSUVoG9Q) **Unity | C#**  
-  Fast-paced game created with the Unity game engine that pushes users to quickly traverse many obstacle courses.
+  3D marble game developed in Unity, including physics-based movement and interactive environments that pushes users to quickly traverse different courses.
