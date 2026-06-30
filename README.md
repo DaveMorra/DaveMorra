@@ -14,7 +14,7 @@ Here are some of the technologies and tools I'm currently working with:
 
 Not all my projects make it to my Github page. Below I have showcased a few extra projects. Feel free to check them out!
 
-- [Smart Scheduler](https://davemorra.ca/projects.html) **Java | Springboot | TypeScript | Angular | Bootstrap**
+- [Smart Scheduler](https://davemorra.ca/projects.html) **Java | Springboot | TypeScript | Angular | Bootstrap**  
   Developed a web application designed to help college students optimize their class schedules using a heuristic tree search algorithm. The platform allows users to customize scheduling parameters and constraints based on their needs. It then generates multiple optimized shedules, helping students plan courses more efficiently.
 - [Inventory Management Website](https://davemorra.ca/projects.html) **SQL | Javascript | HTML | CSS**  
   Full-stack web application backed with a SQL database, designed to help businesses efficiently manage their inventory, customers, and agents. It provides features for inventory tracking, purchase management, and sales reporting, all integrated to support business organization and decision making.
