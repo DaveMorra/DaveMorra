@@ -17,6 +17,6 @@ Not all my projects make it to my Github page. Below I have showcased a few extr
 - [Smart Scheduler](https://davemorra.ca/projects.html) **Java | Springboot | TypeScript | Angular | Bootstrap**
   Developed a web application designed to help college students optimize their class schedules using a heuristic tree search algorithm. The platform allows users to customize scheduling parameters and constraints based on their needs. It then generates multiple optimized shedules, helping students plan courses more efficiently.
 - [Inventory Management Website](https://davemorra.ca/projects.html) **SQL | Javascript | HTML | CSS**  
-  Full-stack web application using SQL database, designed to help businesses efficiently manage their inventory, customers, and agents. It provides features for inventory tracking, purchase management, and report generation to support informed business decision-making. 
+  Full-stack web application backed with a SQL database, designed to help businesses efficiently manage their inventory, customers, and agents. It provides features for inventory tracking, purchase management, and sales reporting, all integrated to support business organization and decision making.
 - [Unity Marble Game](https://www.youtube.com/watch?v=tYbfSUVoG9Q) **Unity | C#**  
-  Fast-paced game that pushes users to quickly traverse many obstacle courses.
+  Fast-paced game created with the Unity game engine that pushes users to quickly traverse many obstacle courses.
