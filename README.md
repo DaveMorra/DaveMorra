@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate coder and recent graduate from We
 
 Here are some of the technologies and tools I'm currently working with:
 
-- **Languages**: Java, C, C++, Python, SQL, HTML, CSS, R, TypeScript, JavaScript
+- **Languages**: Java, C, C++, Python, SQL, HTML, CSS, TypeScript, JavaScript
 - **Frameworks/Libraries**: Angular, Swing, Junit, Springboot, Bootstrap, Unity
 - **Other**: GitHub, Unix, Bash, Docker
 
