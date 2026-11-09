@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate coder and recent graduate from Western University, currently exploring and learning new projects to enhance my programming skills. This is where I share my academic and personal projects. Feel free to look around!
 
+I used generative AI to help write some of the test cases, comments, and README files. The rest of the codebase, including the system architecture, is my own work and reflects my own abilities.
+
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I'm currently working with:
